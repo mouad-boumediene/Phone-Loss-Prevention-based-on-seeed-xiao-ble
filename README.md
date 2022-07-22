@@ -1,5 +1,5 @@
 # Phone-Loss-Prevention-based-on-seeed-xiao-ble
-this is the script for the phone loss prevention device as seen in this video on my youtube channel
+this is the script for the phone loss prevention device as seen in this [video](https://youtu.be/Cm-PkTvWClc) on my youtube channel ([algobotics](https://www.youtube.com/channel/UCR27JFRfdHEiMdSoCUeZAGg))
 ## install
 * install the ArduinoBLE using the library manager on the arduino ide
 * install the Seeed nNR52 Boards using the board manager
